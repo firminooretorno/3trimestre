@@ -1,7 +1,22 @@
 <!doctype html>
-<head></head>
+<head>
 <meta charset='utf-8'>
-<meta http- equise="x-ua-compatilile'content='ien=edege'>
+<meta http- equiv= 'x-ua-compatible'content= 'ie = edge'>
 <title> titulo da aba</title>
-<meta name='viewport'content='width=device-width,initial-scale=1'>
-<link ret ='stylesheet' type ='text/css' mudio='screen'href=style.css'>
+<meta name='viewport ' content= 'width=device -width, initial-scale=1'>
+<link rel = 'stylesheet' type = 'text/css' media='screen' href= style.css'>
+<script scr='main.js'> </script>
+</head>
+<body>
+<header><p><img id= "tituloimagem" scr="nomearquivo.png" alt= "descricaoimagem"></p>
+</header>
+</main>
+<n1> titulo da pagina </n1>
+<div class= "primeiroparagrafo">
+<h3>titulo do texto descritivo 01</b></h3>i></p>
+<ul id="lista">
+<li> item 01 </li>
+<li> item 02</li>
+<li> item 03</li>
+</ul>
+</div>
