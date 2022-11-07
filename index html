@@ -2,7 +2,7 @@
 <head>
 <meta charset='utf-8'>
 <meta http- equiv= 'x-ua-compatible'content= 'ie = edge'>
-<title> titulo da aba</title>
+<title> titulodaaba</title>
 <meta name='viewport ' content= 'width=device -width, initial-scale=1'>
 <link rel = 'stylesheet' type = 'text/css' media='screen' href= style.css'>
 <script scr='main.js'> </script>
@@ -11,12 +11,22 @@
 <header><p><img id= "tituloimagem" scr="nomearquivo.png" alt= "descricaoimagem"></p>
 </header>
 </main>
-<n1> titulo da pagina </n1>
+<n1> titulodapagina </n1>
 <div class= "primeiroparagrafo">
-<h3>titulo do texto descritivo 01</b></h3>i></p>
+<h3>titulodotextodescritivo01</b></h3>i></p>
 <ul id="lista">
-<li> item 01 </li>
-<li> item 02</li>
-<li> item 03</li>
+<li>item01 </li>
+<li>item02</li>
+<li>item03</li>
 </ul>
 </div>
+<div class="segundo paragrafo">
+<h3>titulotexto02</h3>
+<p>textodescritivo02</p>
+</div>
+<h1>***</h1>
+</main>
+<footer><p><img id= "tituloimagem" scr= "nomearquivo.prg" alt= "descricaoimagem"></p>
+</footer>
+</body>
+</html/>
